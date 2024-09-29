@@ -1,0 +1,60 @@
+D:\ProyectosProgramacion\Visual\C#\Dtos\bin\Debug\net7.0\Dtos.deps.json
+D:\ProyectosProgramacion\Visual\C#\Dtos\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\Dtos\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\bin\Debug\net7.0\Dtos.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\bin\Debug\net7.0\Dtos.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\bin\Debug\net7.0\Dtos.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\bin\Debug\net7.0\Dtos.deps.json
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Dtos\obj\Debug\net7.0\ref\Dtos.dll

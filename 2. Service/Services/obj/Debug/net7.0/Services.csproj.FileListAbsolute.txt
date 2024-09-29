@@ -1,0 +1,85 @@
+D:\ProyectosProgramacion\Visual\C#\Services\bin\Debug\net7.0\Services.deps.json
+D:\ProyectosProgramacion\Visual\C#\Services\bin\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\Services\bin\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\refint\Services.dll
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\ref\Services.dll
+D:\ProyectosProgramacion\Visual\C#\Services\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\Services\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\ProyectosProgramacion\Visual\C#\Services\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\Services\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\bin\Debug\net7.0\Services.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\bin\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\bin\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\refint\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Services\obj\Debug\net7.0\ref\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\bin\Debug\net7.0\Services.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\bin\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\bin\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\refint\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\2. Service\Services\obj\Debug\net7.0\ref\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Services.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\refint\Services.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\ref\Services.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Services.deps.json
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\refint\Services.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\Services.pdb
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\2. Service\Services\obj\Debug\net7.0\ref\Services.dll

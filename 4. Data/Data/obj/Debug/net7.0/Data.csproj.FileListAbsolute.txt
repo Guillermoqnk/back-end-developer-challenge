@@ -1,0 +1,76 @@
+D:\ProyectosProgramacion\Visual\C#\Data\bin\Debug\net7.0\Data.deps.json
+D:\ProyectosProgramacion\Visual\C#\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+D:\ProyectosProgramacion\Visual\C#\Data\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\Data\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\refint\Data.dll
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\ref\Data.dll
+D:\ProyectosProgramacion\Visual\C#\Data\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\Data\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\bin\Debug\net7.0\Data.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\bin\Debug\net7.0\Dtos.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\bin\Debug\net7.0\Dtos.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\refint\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\Data\obj\Debug\net7.0\ref\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\bin\Debug\net7.0\Data.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\refint\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\4. Data\Data\obj\Debug\net7.0\ref\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\bin\Debug\net7.0\Data.deps.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\refint\Data.dll
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+D:\ProyectosProgramacion\Visual\C#\DnDBeyondAPI\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\ref\Data.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\bin\Debug\net7.0\Data.deps.json
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\bin\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\bin\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\refint\Data.dll
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.pdb
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+D:\ProyectosProgramacion\Visual\C#\back-end-developer-challenge\4. Data\Data\obj\Debug\net7.0\ref\Data.dll

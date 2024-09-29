@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="back-end-developer-challenge\**" />
+    <Compile Remove="Data\**" />
+    <Compile Remove="Domain\**" />
+    <Compile Remove="Dtos\**" />
+    <Compile Remove="Services\**" />
+    <Content Remove="back-end-developer-challenge\**" />
+    <Content Remove="Data\**" />
+    <Content Remove="Domain\**" />
+    <Content Remove="Dtos\**" />
+    <Content Remove="Services\**" />
+    <EmbeddedResource Remove="back-end-developer-challenge\**" />
+    <EmbeddedResource Remove="Data\**" />
+    <EmbeddedResource Remove="Domain\**" />
+    <EmbeddedResource Remove="Dtos\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="back-end-developer-challenge\**" />
+    <None Remove="Data\**" />
+    <None Remove="Domain\**" />
+    <None Remove="Dtos\**" />
+    <None Remove="Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="AutoMapper.Contrib.Autofac.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\2. Service\Dtos\Dtos.csproj" />
+    <ProjectReference Include="..\2. Service\Services\Services.csproj" />
+  </ItemGroup>
+
+</Project>
