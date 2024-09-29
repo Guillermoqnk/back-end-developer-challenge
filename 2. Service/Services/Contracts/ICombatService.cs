@@ -11,5 +11,6 @@ namespace Services.Contracts
     public interface ICombatService
     {
         public Task<CharacterDto> DealDamage(int damage, Guid targetId);
+        public Task<CharacterDto> HealDamage(int healing, Guid targetid);
     }
 }

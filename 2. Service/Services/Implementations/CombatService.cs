@@ -8,32 +8,46 @@ namespace Services.Implementations;
 
 public class CombatService : ICombatService
 {
-    private readonly ICharacterRepository _characterRepositorty;
+    private readonly ICharacterRepository _characterRepository;
     private readonly IMapper _mapper;
 
-    public CombatService(ICharacterRepository characterRepositorty, IMapper mapper)
+    public CombatService(ICharacterRepository characterRepository, IMapper mapper)
     {
-        _characterRepositorty = characterRepositorty;
+        _characterRepository = characterRepository;
         _mapper = mapper;
     }
 
     public async Task<CharacterDto> DealDamage(int damage, Guid targetId)
     {
-        var target = await _characterRepositorty.GetCharacterByIdAsync(targetId);
+        var target = await _characterRepository.GetCharacterByIdAsync(targetId);
         if (target != null)
         {
-            if ((target.TemporaryHitPoints != 0) && (target.TemporaryHitPoints < damage))
+            if ((target.TemporaryHitPoints > 0) && (target.TemporaryHitPoints < damage))
             {
-                target.TemporaryHitPoints = 0;
                 damage -= target.TemporaryHitPoints;
+                target.TemporaryHitPoints = 0;
                 target.ActualHitPoints = damage > target.ActualHitPoints ? target.ActualHitPoints = 0 : target.ActualHitPoints -= damage;
             }
             else
             {
-                target.TemporaryHitPoints -= damage;
+                target.ActualHitPoints -= damage;
             }
 
-            await _characterRepositorty.UpdateCharacter(target);
+            await _characterRepository.UpdateCharacter(target);
+            return _mapper.Map<CharacterDto>(target);
+        }
+        else
+            throw new NullReferenceException($"Character with Id {targetId} couldn't be found");
+    }
+
+    public async Task<CharacterDto> HealDamage(int healing, Guid targetId)
+    {
+        var target = await _characterRepository.GetCharacterByIdAsync(targetId);
+        if(target != null)
+        {
+            target.ActualHitPoints = target.ActualHitPoints + healing > target.MaxHitPoints ? target.MaxHitPoints : target.ActualHitPoints += healing;
+
+            await _characterRepository.UpdateCharacter(target);
             return _mapper.Map<CharacterDto>(target);
         }
         else

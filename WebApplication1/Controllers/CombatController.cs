@@ -21,4 +21,10 @@ public class CombatController : ControllerBase
     {
         return await _combateService.DealDamage(damage, targetId);
     }
+    
+    [HttpPut("HealDamage")]
+    public async Task<CharacterDto> HealDamage(int healing, Guid targetId)
+    {
+        return await _combateService.HealDamage(healing, targetId);
+    }
 }
