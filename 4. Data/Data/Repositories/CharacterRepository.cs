@@ -21,12 +21,12 @@ public class CharacterRepository : ICharacterRepository
             .ToListAsync();
     }
 
-    public async Task<Guid> AddCharacter(Character chara)
+    public async Task<Guid> AddCharacter(Character character)
     {
         using (var dbContextTransaction = _context.Database.BeginTransaction())
         {
 
-            var result = await _context.Characters.AddAsync(chara).ConfigureAwait(false);
+            var result = await _context.Characters.AddAsync(character).ConfigureAwait(false);
 
             await dbContextTransaction.CommitAsync();
             _context.SaveChanges();
@@ -35,5 +35,22 @@ public class CharacterRepository : ICharacterRepository
                 return result.Entity.Id;
             else return Guid.Empty;
         }
+    }
+
+    public async Task<Character?> GetCharacterByIdAsync(Guid id)
+    {
+        return await _context.Characters.Where(cha => cha.Id == id).FirstOrDefaultAsync();
+    }
+
+    public async Task<bool> UpdateCharacter(Character character)
+    {
+        var entity =  await _context.Characters.SingleAsync(c => c.Id == character.Id);
+
+        entity = character;
+
+        _context.SaveChanges();
+
+        return true;
+
     }
 }

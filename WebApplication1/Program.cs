@@ -26,6 +26,7 @@ public class Program
         builder.Services.AddTransient<DataSeeder>();
         builder.Services.AddTransient<ICharacterRepository, CharacterRepository>();
         builder.Services.AddScoped<ICharacterService, CharacterService>();
+        builder.Services.AddScoped<ICombatService, CombatService>();
         builder.Services.AddAutoMapper(typeof(MappingProfile));
         builder.Services.AddDbContext<DnDContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))

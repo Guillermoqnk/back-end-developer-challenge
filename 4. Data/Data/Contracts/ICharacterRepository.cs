@@ -5,5 +5,7 @@ namespace Data.Contracts;
 public interface ICharacterRepository
 {
     Task<IEnumerable<Character>> GetCharactersAsync();
-    Task<Guid> AddCharacter(Character chara);
+    Task<Character?> GetCharacterByIdAsync(Guid id);
+    Task<Guid> AddCharacter(Character character);
+    Task<bool> UpdateCharacter(Character character);
 }
