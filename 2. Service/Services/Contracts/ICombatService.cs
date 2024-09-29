@@ -12,5 +12,6 @@ namespace Services.Contracts
     {
         public Task<CharacterDto> DealDamage(int damage, Guid targetId);
         public Task<CharacterDto> HealDamage(int healing, Guid targetid);
+        public Task<CharacterDto> AddTemporalHitPoints(int temp, Guid targetId);
     }
 }

@@ -17,21 +17,36 @@ public class CombatService : ICombatService
         _mapper = mapper;
     }
 
+    public async Task<CharacterDto> AddTemporalHitPoints(int temp, Guid targetId)
+    {
+        var target = await _characterRepository.GetCharacterByIdAsync(targetId);
+        if (target != null)
+        {
+            target.TemporaryHitPoints= temp;
+            await _characterRepository.UpdateCharacter(target);
+            return _mapper.Map<CharacterDto>(target);
+        }
+        else
+            throw new NullReferenceException($"Character with Id {targetId} couldn't be found");
+    }
+
     public async Task<CharacterDto> DealDamage(int damage, Guid targetId)
     {
         var target = await _characterRepository.GetCharacterByIdAsync(targetId);
         if (target != null)
         {
-            if ((target.TemporaryHitPoints > 0) && (target.TemporaryHitPoints < damage))
+            if ((target.TemporaryHitPoints > 0) && target.TemporaryHitPoints < damage)
             {
                 damage -= target.TemporaryHitPoints;
                 target.TemporaryHitPoints = 0;
-                target.ActualHitPoints = damage > target.ActualHitPoints ? target.ActualHitPoints = 0 : target.ActualHitPoints -= damage;
             }
             else
             {
-                target.ActualHitPoints -= damage;
+                target.TemporaryHitPoints -= damage;
+                damage = 0;
             }
+
+            target.ActualHitPoints = damage > target.ActualHitPoints ? target.ActualHitPoints = 0 : target.ActualHitPoints -= damage;
 
             await _characterRepository.UpdateCharacter(target);
             return _mapper.Map<CharacterDto>(target);

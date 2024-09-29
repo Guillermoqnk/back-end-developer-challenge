@@ -27,4 +27,10 @@ public class CombatController : ControllerBase
     {
         return await _combateService.HealDamage(healing, targetId);
     }
+
+    [HttpPut("AddTemporalHitPoints")]
+    public async Task<CharacterDto> AddTemporalHitPoints(int temporalHitPoints, Guid targetId)
+    {
+        return await _combateService.AddTemporalHitPoints(temporalHitPoints, targetId);
+    }
 }
